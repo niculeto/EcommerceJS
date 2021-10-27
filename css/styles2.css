@@ -1,0 +1,14 @@
+.card-img-top {
+    height: auto;
+    width: auto;
+}
+
+.imagen__carrito {
+    height: 150px;
+    width: 170px;
+}
+
+.dark_activado {
+    color: #000;
+    transition: all 0, 3s;
+}
